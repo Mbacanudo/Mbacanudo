@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario, I'm from Chile</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Data Analyst / Data Science</h3>
 
 - 🌱 I’m currently learning **DS, python, DB**
 
