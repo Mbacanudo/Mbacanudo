@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Data science / Data analytics**
 
-# [Portfolio](https://mbacanudo.github.io/)
+## [Portfolio](https://mbacanudo.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
