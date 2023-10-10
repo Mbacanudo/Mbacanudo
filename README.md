@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Mario Navarro</h1>
-- 🌱 I’m currently learning **Data Analyst / DS**
+- 🌱 I’m currently learning Data Analyst / DS
 
 - 💬 Ask me about **data science / data analytics**
 
